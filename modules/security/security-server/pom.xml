@@ -19,7 +19,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<cas.version>3.5.2</cas.version>
+		<cas.version>4.0.0</cas.version>
 		<version.war.plugin>2.4</version.war.plugin>
 		<war-name>openiot-cas</war-name>
 		<!-- maven-compiler-plugin -->
