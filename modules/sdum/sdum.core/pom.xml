@@ -159,12 +159,12 @@
 		<dependency>
 			<groupId>org.jboss.resteasy</groupId>
 			<artifactId>resteasy-jaxrs</artifactId>
-			<version>2.3.6.Final</version>
+			<version>3.11.0.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.resteasy</groupId>
 			<artifactId>resteasy-jaxb-provider</artifactId>
-			<version>2.3.6.Final</version>
+			<version>2.3.10.Final</version>
 		</dependency>
 
 		<!-- ====== org.eclipse.persistence.jaxb.JAXBContextFactory Dependencies -->
@@ -235,7 +235,7 @@
 		<dependency>
 			<groupId>net.bull.javamelody</groupId>
 			<artifactId>javamelody-core</artifactId>
-			<version>1.45.0</version>
+			<version>1.62.0</version>
 		</dependency>
 
 
