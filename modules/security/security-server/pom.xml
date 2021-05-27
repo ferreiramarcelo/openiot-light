@@ -19,14 +19,14 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<cas.version>3.5.2</cas.version>
+		<cas.version>4.0.0</cas.version>
 		<version.war.plugin>2.4</version.war.plugin>
 		<war-name>openiot-cas</war-name>
 		<!-- maven-compiler-plugin -->
 		<version.compiler.plugin>2.3.1</version.compiler.plugin>
 		<maven.compiler.target>1.6</maven.compiler.target>
 		<maven.compiler.source>1.6</maven.compiler.source>
-		<spring.version>3.1.1.RELEASE</spring.version>
+		<spring.version>3.2.1.RELEASE</spring.version>
 	</properties>
 
 	<build>
