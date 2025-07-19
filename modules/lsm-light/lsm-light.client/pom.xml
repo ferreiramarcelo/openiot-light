@@ -39,7 +39,7 @@
 		<!-- maven-compiler-plugin -->
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<maven.compiler.source>1.7</maven.compiler.source>
-		<cas.version>3.5.2</cas.version>
+		<cas.version>4.1.0</cas.version>
 	</properties>
 
 	<dependencies>
